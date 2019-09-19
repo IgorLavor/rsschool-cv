@@ -13,7 +13,7 @@
 * JS
 * A little bit C#
 ## Code examples
- 1.
+ 
         using System;
 
         public class MainClass
@@ -35,7 +35,7 @@
             } 
         }
 
-2.
+
         using System;
 
         public class MainClass
@@ -51,5 +51,7 @@
                 else Console.WriteLine("NO");
             }
         }
+
+
 ## Experience
 Experience is being gained right now
