@@ -12,8 +12,8 @@
 * Git
 * JS
 * A little bit C#
-## Code examples
- 
+## Code example
+ ***
         using System;
 
         public class MainClass
@@ -35,23 +35,6 @@
             } 
         }
 
-
-        using System;
-
-        public class MainClass
-        {
-            public static void Main()
-            {
-                int a = Convert.ToInt32(Console.ReadLine());
-                int b = a/100;
-                int c = (a%100)/10;
-                int d = (a%100)%10;
-        
-                if (c>b && d>c) Console.WriteLine("YES");
-                else Console.WriteLine("NO");
-            }
-        }
-
-
+***
 ## Experience
 Experience is being gained right now
