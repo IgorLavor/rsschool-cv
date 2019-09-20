@@ -38,3 +38,11 @@
 ***
 ## Experience
 Experience is being gained right now
+## Education
+* Stepik courses of basic programming
+* Codeacademy courses HTML and CSS
+* Introduction to JavaScript
+* Rollin Scopes School (studying now) 
+## English
+* Intermediate. 
+* Confident basic lessons through in-depth language learning at school. I’ve been practicing Duolingo recently.
