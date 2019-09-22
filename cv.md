@@ -12,6 +12,7 @@
 * Git
 * JS
 * A little bit C#
+* VBA for Excel
 ## Code example
  ***
         using System;
@@ -37,9 +38,10 @@
 
 ***
 ## Experience
-Experience is being gained right now
+Some experience in layout, VBA for Excel and experience is being gained right now.
 ## Education
 * Stepik courses of basic programming
+* Sepik courses of webdevelopment
 * Codeacademy courses HTML and CSS
 * Introduction to JavaScript
 * Rollin Scopes School (studying now) 

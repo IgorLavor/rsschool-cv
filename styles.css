@@ -1,0 +1,35 @@
+.all{
+    margin: 0 auto;
+    width: 1024px;
+    border: 1px solid white;
+    }
+
+header{
+    
+    width: 1024px;
+    margin: 0 auto;
+}
+
+img{
+    height: 300px;
+    }
+.summary{
+padding-top: 20px;
+width: 1024px;
+border: 1px solid white;
+}
+h2{    
+    margin:0px;
+    text-align: center;
+    background-color: grey;    
+}
+.skills{
+padding-top: 20px;
+width: 1024px;
+border: 1px solid white;
+}
+footer{
+    margin:0px;
+    text-align: center;
+    background-color: grey;
+}
