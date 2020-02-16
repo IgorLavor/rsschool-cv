@@ -2,7 +2,8 @@
 ## Contact information 
 * Mobile: +375259216568 
 * e-mail: igorlavorchik@gmail.com
-* [Facebook.](https://www.facebook.com/igor.lavorchik.5) 
+* [Facebook.](https://www.facebook.com/igor.lavorchik.5)
+* Discord: Igor Lavorchyk(@Ilavor) 
 ## Summary
 * The goal is to get a job as a junior front-end developer in a big company and in 5 years grow to a team lead.
 * Interested in gaining new knowledge, I like to solve complex problems and do what others cannot do.
@@ -44,7 +45,8 @@ Some experience in layout, VBA for Excel and experience is being gained right no
 * Sepik courses of webdevelopment
 * Codeacademy courses HTML and CSS
 * Introduction to JavaScript
-* Rollin Scopes School (studying now) 
+* Rolling Scopes School (studying now)
+* Courses VBA for Excel 
 ## English
 * Intermediate. 
 * Confident basic lessons through in-depth language learning at school. I’ve been practicing Duolingo recently.
